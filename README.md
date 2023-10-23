@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedadabhargavi
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning NLP.
 -
 
 
